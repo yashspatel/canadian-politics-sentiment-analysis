@@ -13,7 +13,7 @@ PowerBI Dashboard: A comprehensive PowerBI dashboard provides real-time insights
 ### Screenshots
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/130169662/231020899-1b8fe5f0-5191-4795-a3f3-6b91dd30674d.jpeg" width="300" />
+  <img src="https://raw.githubusercontent.com/yashspatel/canadian-politics-sentiment-analysis/main/Raw%20data.jpg" width="300" />
   <img src="https://user-images.githubusercontent.com/130169662/231021022-a42f9d60-b49a-4a77-8521-0a54935dfcec.jpeg" width="300" />
   <img src="https://user-images.githubusercontent.com/130169662/231021020-35bbdb21-3a99-4e57-9682-f3946a9ba4ef.jpeg" width="300" />
 </p>
