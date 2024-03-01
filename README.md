@@ -18,9 +18,11 @@ PowerBI Dashboard: A comprehensive PowerBI dashboard provides real-time insights
 <p float="left">
   <img src="https://raw.githubusercontent.com/yashspatel/canadian-politics-sentiment-analysis/main/Raw%20data.jpg" width="300" />
   <img src="https://github.com/yashspatel/canadian-politics-sentiment-analysis/blob/main/Transformed%20data.jpg" width="300" />
+  
+</p>
+<p float="left">
   <img src="https://github.com/yashspatel/canadian-politics-sentiment-analysis/blob/main/Dashboard.jpg" width="300" />
 </p>
-
 This is the screenshot of an output video, where the model is detecting the weed from the other type of grass by bounding boxes. 
 
 ### Technologies Used
