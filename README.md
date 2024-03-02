@@ -36,11 +36,11 @@ PowerBI Dashboard: A comprehensive PowerBI dashboard provides real-time insights
 This is the screenshot of an output video, where the model is detecting the weed from the other type of grass by bounding boxes. 
 
 ### Technologies Used
-AWS Lambda
-AWS S3
-NLTK Library
-PowerBI
-AWS Athena
+AWS Lambda<br>
+AWS S3<br>
+NLTK Library<br>
+PowerBI<br>
+AWS Athena<br>
 
 ## *Contact*
 
