@@ -1,4 +1,4 @@
-# Sentiment Analysis: Analyzing Canadian Political Discourse on Reddit in Real Time
+# Sentiment Analysis: Analyzing Canadian Political Discourse on Reddit in Real Time (ETL)
 
 ### Overview 
 Welcome to the GitHub repository for the Reddit Sentiment Tracker: Canadian Politics Edition project. This end-to-end Sentiment Analysis project focuses on Canadian politics, analyzing sentiment from Reddit posts related to the Trudeau and Poilievre governments.
