@@ -6,6 +6,7 @@ Welcome to the GitHub repository for the Reddit Sentiment Tracker: Canadian Poli
 <p float="left">
   <img src="https://github.com/yashspatel/canadian-politics-sentiment-analysis/blob/main/ETL%20flow.jpg" width="300" />
 </p>
+
 ### Key Features
 Live Data Fetching: The project is designed to fetch live data, ensuring that sentiment analysis is continually updated to reflect the most recent opinions on Reddit.
 
