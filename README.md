@@ -33,7 +33,7 @@ PowerBI Dashboard: A comprehensive PowerBI dashboard provides real-time insights
     Dashboard: Designed and visualized in Microsoft PowerBI.
   </p>
 </p>
-This is the screenshot of an output video, where the model is detecting the weed from the other type of grass by bounding boxes. 
+
 
 ### Technologies Used
 [*AWS Lambda*](https://aws.amazon.com/lambda/)<br>
